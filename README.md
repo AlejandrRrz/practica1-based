@@ -1,33 +1,43 @@
-**# Practica 1
+# Database System Project
 
-> Live Site: [https://username.github.io/repository/](https://username.github.io/repository/)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://alejandrrrz.github.io/practica1-based/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/AlejandrRrz/practica1-based)
+
+> **Live Application URL:** [https://alejandrrrz.github.io/practica1-based/](https://alejandrrrz.github.io/practica1-based/)
 
 ## Overview
-A web platform designed to streamline administrative workflows and database queries.
+This repository contains the static web front-end and system architecture documentation for our database system project developed for the Database course at ESCOM IPN.
 
 ## Live Deployments
-* **Primary Deployment (GitHub Pages):** [https://username.github.io/repository/](https://username.github.io/repository/)
-* **Alternative Deployment 1 (Vercel):** [https://project-name.vercel.app](https://project-name.vercel.app)
-* **Alternative Deployment 2 (Netlify):** [https://project-name.netlify.app](https://project-name.netlify.app)
+* **Primary Deployment (GitHub Pages):** [https://alejandrrrz.github.io/practica1-based/](https://alejandrrrz.github.io/practica1-based/)
+* **Alternative Deployment 1 (Vercel):** [https://practica1-based.vercel.app](https://practica1-based.vercel.app)
+* **Alternative Deployment 2 (Netlify):** [https://practica1-based.netlify.app](https://practica1-based.netlify.app)
+
+---
 
 ## Team Members & Responsibilities
-* **Student 1 Name**: Frontend static site structure, HTML/CSS layout, and GitHub Pages deployment.
-* **Student 2 Name**: EER and Relational Diagram optimization, relative path audit, and comparative hosting study.
-* **Student 3 Name**: README documentation, repository organization, and assignment analysis (`identificacion.md`).
+* **Alejandro Rivas Ramírez** ([@AlejandrRrz](https://github.com/AlejandrRrz)): Developed the static HTML/CSS structure, configured GitHub Pages deployment, and conducted the hosting service evaluation.
+* **[Member 2 Name]** ([@GitHubUsername]): Designed and exported the EER and Relational diagrams, handled relative path audits, and structured the assigned repository analysis.
+* **[Member 3 Name]** ([@GitHubUsername]): Authored the technical research on web architecture and contributed to the backend technology stack specification.
+
+---
 
 ## Local Setup & Inspection
-To inspect and run this static site locally on your machine:
+To clone and run this static site locally on your environment:
 
 ```bash
-# Clone the repository
-git clone [https://github.com/username/repository.git](https://github.com/username/repository.git)
+# 1. Clone the repository
+git clone [https://github.com/AlejandrRrz/practica1-based.git](https://github.com/AlejandrRrz/practica1-based.git)
 
-# Navigate to the project directory
-cd repository
+# 2. Navigate into the project folder
+cd practica1-based
 
-# Checkout the practice branch
+# 3. Switch to the practice branch
 git checkout practica31
 
-# Open the static site in your default browser (Linux/macOS)
-open docs/index.html  # macOS
-xdg-open docs/index.html  # Linux**
+# 4. Open the site in your default browser
+# On Linux / WSL:
+xdg-open docs/index.html
+
+# On macOS:
+open docs/index.html
